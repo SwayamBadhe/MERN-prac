@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.body {
+  background-color: chocolate;
+}
+
+.card {
+  text-align: center;
+  margin: 20px;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 20px;
+}
+
+.card-inner {
+  border: 1px dashed black;
+}
+
+button {
+  margin: 20px;
+  display: block;
+  padding: 5px 10px;
+  background-color: lightblue;
+}
